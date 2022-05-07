@@ -1,7 +1,10 @@
-<h2>🤗 Hello! Nice to see you.</h2>
+<h2><img alt="Hello" src="https://user-images.githubusercontent.com/91944649/167241515-2f3d6610-255d-4e49-89d0-5bcee48859a9.gif" width="25" height="25"> Hello! Nice to see you. </h2>
+
 
 <h3>Welcome to my page!</h3>
 <h3>I'm Donghyuk, Front-end developer 💻</h3>
+
+<img alt="developer" src="https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1646919223/noticon/yv2679vxi8vusyvngyyv.png" />
   
 <br />
   
