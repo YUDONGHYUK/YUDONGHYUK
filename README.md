@@ -6,7 +6,6 @@
 
 <img alt="developer" src="https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1646919223/noticon/yv2679vxi8vusyvngyyv.png" />
   
-<br />
   
 <h2>🛠 Technologies and Tools I use</h2>
 
