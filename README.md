@@ -23,7 +23,7 @@
 <h2>📔 My blog</h2>
 
 <a href="https://www.notion.so/Doyu-01b5304c18ec49969140fe4021c768f1">![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)</a>
-<a href="https://doyu-blog-542gbtpfd-yudonghyuk.vercel.app/">![Notion](https://img.shields.io/badge/Blog-56b366?style=for-the-badge)</a>
+<a href="https://doyu-blog.vercel.app/">![Notion](https://img.shields.io/badge/Blog-56b366?style=for-the-badge)</a>
 
 <!--
 **YUDONGHYUK/YUDONGHYUK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
